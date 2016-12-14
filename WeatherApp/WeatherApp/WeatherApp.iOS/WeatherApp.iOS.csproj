@@ -3,7 +3,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">iPhoneSimulator</Platform>
-	<OutputPath>bin\iPhoneSimulator\Ad-Hoc\</OutputPath>
+    <OutputPath>obj\iPhoneSimulator\Ad-Hoc\</OutputPath>
     <ProductVersion>8.0.30703</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>{08A794F0-8C9D-4C82-8B2A-9E481C6B9FFC}</ProjectGuid>
