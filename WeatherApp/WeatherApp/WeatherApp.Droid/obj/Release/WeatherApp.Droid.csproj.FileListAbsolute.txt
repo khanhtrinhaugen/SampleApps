@@ -1,1 +1,0 @@
-D:\SampleApps\WeatherApp\WeatherApp\WeatherApp.Droid\obj\Release\WeatherApp.Droid.csprojResolveAssemblyReference.cache
