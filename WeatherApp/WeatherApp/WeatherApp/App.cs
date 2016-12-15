@@ -27,7 +27,7 @@ namespace WeatherApp
                 }
             };
 
-            MainPage = new NavigationPage(content);
+            MainPage = new NavigationPage(new WeatherPage());
         }
 
         protected override void OnStart()
