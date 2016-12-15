@@ -11,6 +11,7 @@
     <RootNamespace>WeatherApp.iOS</RootNamespace>
     <IPhoneResourcePrefix>Resources</IPhoneResourcePrefix>
     <AssemblyName>WeatherApp.iOS</AssemblyName>
+	<OutputPath>bin\iPhoneSimulator\Debug</OutputPath>
     <NuGetPackageImportStamp>
     </NuGetPackageImportStamp>
   </PropertyGroup>
